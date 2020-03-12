@@ -4,6 +4,7 @@ const circle = document.querySelector('circle');
 let angle = 0;
 const x = circle.getAttribute('cx');
 const y = circle.getAttribute('cy');
+text1.style.display = "block";
 function myFunction() {
     // Get the checkbox
     var checkBox = document.getElementById("myCheck");
